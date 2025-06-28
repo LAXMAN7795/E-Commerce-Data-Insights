@@ -64,11 +64,12 @@ These datasets were merged and cleaned to form a single DataFrame with the follo
   - ~19% are 4 stars
   - ~13% are 1 star
 - Majority satisfaction with some room for quality improvements.
-![image]()
+![image](https://github.com/LAXMAN7795/E-Commerce-Data-Insights/blob/9f213ebd423b0741470a3b28c168a5b8629ba40d/output/review_score_distribution.png)
 
 ### 5. Order Quantity Trend Over Time
 - Line chart shows most orders are small in quantity.
 - Occasional large-quantity spikes may indicate bulk or business orders.
+![image]()
 
 ---
 
