@@ -69,7 +69,7 @@ These datasets were merged and cleaned to form a single DataFrame with the follo
 ### 5. Order Quantity Trend Over Time
 - Line chart shows most orders are small in quantity.
 - Occasional large-quantity spikes may indicate bulk or business orders.
-![image]()
+![image](https://github.com/LAXMAN7795/E-Commerce-Data-Insights/blob/bf873a5b1f2aa415b0933b542e6d892ec85d6b33/output/order_quantity_trend.png)
 
 ---
 
