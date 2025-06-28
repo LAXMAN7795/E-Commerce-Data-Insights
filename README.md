@@ -51,11 +51,12 @@ These datasets were merged and cleaned to form a single DataFrame with the follo
 
 ### 2. Top 10 Users by Quantity Ordered
 - Highlights high-volume customers, useful for loyalty programs or targeted marketing.
-![image]()
+![image](https://github.com/LAXMAN7795/E-Commerce-Data-Insights/blob/5fe7857307cdfc91fe287832e0c688f09049cd8a/output/top_users.png)
 
 ### 3. Top 10 Products by Average Review Score
 - All top products have a perfect 5.0 average rating.
 - Indicates strong customer satisfaction and reliability.
+![image]()
 
 ### 4. Review Score Distribution
 - Pie chart shows that:
