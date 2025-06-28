@@ -56,7 +56,7 @@ These datasets were merged and cleaned to form a single DataFrame with the follo
 ### 3. Top 10 Products by Average Review Score
 - All top products have a perfect 5.0 average rating.
 - Indicates strong customer satisfaction and reliability.
-![image]()
+![image](https://github.com/LAXMAN7795/E-Commerce-Data-Insights/blob/34add5ff252ba9511c60a04383e41f38285dbf38/output/avg_reviews.png)
 
 ### 4. Review Score Distribution
 - Pie chart shows that:
@@ -64,6 +64,7 @@ These datasets were merged and cleaned to form a single DataFrame with the follo
   - ~19% are 4 stars
   - ~13% are 1 star
 - Majority satisfaction with some room for quality improvements.
+![image]()
 
 ### 5. Order Quantity Trend Over Time
 - Line chart shows most orders are small in quantity.
