@@ -47,10 +47,11 @@ These datasets were merged and cleaned to form a single DataFrame with the follo
 - Visualized using a bar chart.
 - Identifies products with the highest total quantities sold.
 - Helps in inventory prioritization and marketing.
-![image]()
+![image](https://github.com/LAXMAN7795/E-Commerce-Data-Insights/blob/0bf91cd6e5e8dac18c6a90a1dbc11e632165cd12/output/top_products.png)
 
 ### 2. Top 10 Users by Quantity Ordered
 - Highlights high-volume customers, useful for loyalty programs or targeted marketing.
+![image]()
 
 ### 3. Top 10 Products by Average Review Score
 - All top products have a perfect 5.0 average rating.
